@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#hero {
+    border-radius: 25px;
+    background: url(jpg/TUTECHFBBANNERNEW.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    flex-wrap: nowrap;
+  }
